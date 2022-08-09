@@ -1,2 +1,2 @@
-# WorldCup2022
-Visual Studio 2022 sample code for our courses
+# WorldCup
+Visual Studio 2022 sample code for our Mastering Azure Repos course
